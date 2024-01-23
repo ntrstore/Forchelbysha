@@ -1,0 +1,48 @@
+.confetti{
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+    user-select: none;
+ }
+ 
+ body
+ {
+       cursor: pointer;
+ }
+ .name2
+ {
+      font-weight: 900;
+     text-transform: uppercase;
+     padding: 36px;
+     position: absolute;
+     left: 0;
+     right: 0;
+     text-align: center;
+     top: 57%;
+     color: #CCE6FF;
+     font-family: 'Righteous', cursive;
+     font-size: 93px;
+     letter-spacing: 12px;
+     text-shadow: 2px 4px 11px rgb(0 0 0 / 28%);
+       -webkit-text-stroke-width: 3px;
+     -webkit-text-stroke-color: white;
+ }
+ .name1
+ {
+      font-weight: 900;
+     text-transform: uppercase;
+     padding: 36px;
+     position: absolute;
+     left: 0;
+     right: 0;
+     text-align: center;
+     top: 0%;
+     color: #CCE6FF;
+     font-family: 'Righteous', cursive;
+     font-size: 80px;
+     letter-spacing: 12px;
+     text-shadow: 2px 4px 11px rgb(0 0 0 / 28%);
+       -webkit-text-stroke-width: 3px;
+     -webkit-text-stroke-color: white;
+ }
+ 
